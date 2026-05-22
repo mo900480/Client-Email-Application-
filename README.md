@@ -6,8 +6,8 @@ A Python-based email client that sends and receives emails using SMTP and IMAP p
 
 - **Course:** Computer Networks (00207N)
 - **University:** Alexandria National University
-- **Faculty:** Computing and Data Science
-- **Semester:** Fall 2025
+- **Faculty:** Computers and Data Science
+- **Semester:** Fall 2026
 
 ## Team Members
 
